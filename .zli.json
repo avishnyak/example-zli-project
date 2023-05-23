@@ -1,0 +1,4 @@
+{
+    "root": "./zli-commands/",
+    "commandExecutable": "zli"
+}
